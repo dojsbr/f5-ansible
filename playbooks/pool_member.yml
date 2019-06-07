@@ -9,7 +9,7 @@
     state: "disabled"
     pool: "pool_Web"
     node_name: "node_Srv1"
-    node_ip: "10.100.112.1"
+    node_ip: "172.16.20.1"
     node_port: 80
 
   environment: "{{ bigip_env }}"

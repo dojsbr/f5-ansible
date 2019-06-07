@@ -1,7 +1,7 @@
 ---
 
 - name: "Imperative: Run a tmsh command"
-  hosts: bigips
+  hosts: bigip
   gather_facts: false
   connection: local
 
